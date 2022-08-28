@@ -1,0 +1,6 @@
+.vs
+.git
+
+Cache/bin
+Cache/obj
+Cache/Properties
